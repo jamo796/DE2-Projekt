@@ -26,6 +26,14 @@ Celý systém je postaven na  [Arduinu verze UNO](https://store.arduino.cc/produ
 
 ![Obvod](https://github.com/jamo796/DE2-Projekt/blob/main/img/Obvod.jpg)
 
+Termistorový senzor:
+Jako senor teploty jsme použily Termistor který má negativní odporovou charakteristiku (s tostoucí teplotou klesá odpor)
+tuto charakteristiku kterou poskytnul výrobce jsme vynesli do grafu a graf jsme proložil spojnicí trendu (polynom 3. stupně) 
+která nám řekla jakou rovnicí máme popisovat teplotu v závislosti na  úbytku napětí na termistoru
+
+v simulaci jsme tento termistor řešily napěťovým zdrojem který nám posloužil jako 
+
+
 
 
 Režim Displeje 1:
