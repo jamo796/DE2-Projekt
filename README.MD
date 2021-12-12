@@ -47,7 +47,9 @@ Zobrazuje stavy slovně (Filling, Normal, Full)
 
 - Full = Hladina Vody je vysoká (Upozorňuje obsluhu na možnost vylítí)
 
-a zobrazuje jestli se teplota zpracovává nebo nikoliv
+Temp ON/Off vypníná či zapíná funkci kontroly teploty (ale teplota se měří a zobrazuje stále)
+- ON = Kontrola je zapnutá pokud je teplota příliš nízká nebo vysoká vypne se automatické zavlažování
+- OFF = Teplota se měři a zobrazuje na display ale neovlivňuje funkci zavlažování 
 
 ![Display2](https://github.com/jamo796/DE2-Projekt/blob/main/img/display2.jpg)
 
