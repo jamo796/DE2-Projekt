@@ -2,7 +2,7 @@
  * Hladina.c
  *
  * Created: 18.11.2021 23:43:01
- * Author : vojta,honza,filip
+ * Author : Vojta Niederle, Jan Pelka, Filip Nimrichter
  */ 
 
 #ifndef F_CPU
