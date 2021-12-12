@@ -7,7 +7,6 @@ Měření výšky vodní hladiny v nádrži s využitím senzorů a Arduina Uno
 #### Členové:
 
 - Jan Pelka
-
 - Filip Nimrichter
 - Vojtěch Niederle
 
@@ -77,7 +76,7 @@ https://github.com/tomas-fryza/Digital-electronics-2/blob/master/Labs/library/in
 
 
 
-Knihovny byly použity ty které byly vytvořeny v Laboratorní Výuce dokumentaci k nim naleznete na [Repozitáři](https://github.com/tomas-fryza/Digital-electronics-2/) Pana Docenta Frýzi 
+Knihovny byly použity ty které byly vytvořeny v Laboratorní Výuce dokumentaci k nim naleznete na [Repozitáři](https://github.com/tomas-fryza/Digital-electronics-2/) Pana Docenta Tomáše Frýzi 
 
 
 
@@ -175,3 +174,4 @@ Datasheet: [ARDUINO ATMEGA328P](https://ww1.microchip.com/downloads/en/DeviceDoc
 
 senzor ultrazvuk: [ultrazvukový senzor hladiny](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf)
 
+datasheet termistoru: [Termistor](https://www.gme.cz/termistor-ntc-b57164k0103k)
