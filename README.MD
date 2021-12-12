@@ -6,9 +6,10 @@ Měření výšky vodní hladiny v nádrži s využitím senzorů a Arduina Uno
 
 #### Členové:
 
+
+- Vojtěch Niederle
 - Jan Pelka
 - Filip Nimrichter
-- Vojtěch Niederle
 
 
 
@@ -32,6 +33,9 @@ tuto charakteristiku kterou poskytnul výrobce jsme vynesli do grafu a graf jsme
 která nám řekla jakou rovnicí máme popisovat teplotu v závislosti na  úbytku napětí na termistoru
 
 v simulaci jsme tento termistor řešily napěťovým zdrojem který nám posloužil jako 
+
+v zapojení jsme použily odpový dělič viz obrázek
+![DELIC](img/DELIC.jpg)
 
 
 
