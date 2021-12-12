@@ -25,7 +25,7 @@ Měření výšky vodní hladiny v nádrži s využitím senzorů a Arduina Uno
 
 Celý systém je postaven na  [Arduinu verze UNO](https://store.arduino.cc/products/arduino-uno-rev3/) ke kterému jsou připojeny periferie jako [Display](https://www.sparkfun.com/datasheets/LCD/HD44780.pdf), [ultrazvukový senzor hladiny](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf) a [teplotní senzor](https://www.gme.cz/termistor-ntc-b57164k0103k). K arduinu jsou připojeny 2 relé kde jedno otevírá výpusť na zalévání zahrady a druhé spíná čerpadlo které doplňuje vodu do nádrže. Stavy jsou vybaveny Kontrolními LED - diodami. K adruinu jsou dále připojené spínače které přepínají mezi režimy zobrazování na display, zapnutí zpracování teploty, zapnutí čerpadla a zdali je zapnuté zavlažování.
 
-[Obvod](img/obvod.jpg)
+[Obvod](https://github.com/jamo796/DE2-Projekt/blob/main/img/Obvod.jpg)
 
 
 
@@ -33,7 +33,7 @@ Režim Displeje 1:
 
 Zobrazuje Přímo vzdálenost hladiny v cm a teplotu v °C
 
-[display1](img/display1.jpg)
+[display1](https://github.com/jamo796/DE2-Projekt/blob/main/img/display1.jpg)
 
 
 
@@ -49,7 +49,7 @@ Zobrazuje stavy slovně (Filling, Normal, Full)
 
 a zobrazuje jestli se teplota zpracovává nebo nikoliv
 
-[Display2](img/display2.jpg)
+[Display2](https://github.com/jamo796/DE2-Projekt/blob/main/img/display2.jpg)
 
 
 
