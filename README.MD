@@ -35,6 +35,7 @@ která nám řekla jakou rovnicí máme popisovat teplotu v závislosti na  úby
 v simulaci jsme tento termistor řešily napěťovým zdrojem který nám posloužil jako 
 
 v zapojení jsme použily odpový dělič viz obrázek
+
 ![DELIC](img/DELIC.jpg)
 
 
