@@ -92,7 +92,7 @@ http://www.peterfleury.epizy.com/avr-software.html?i=2
 tato knihovna obsluhuje LCD display jako kam se má postavit kurzor jestli se má display zapnout nebo vypnout a nebo jaký symbol nebo textový řetězec má zobrazit
 
 | Function Name | Function parameters | Description | Example |
-| *-* | *-* | *-* | *-* |
+| :-- | :-- | :-- | :-- |
 | `lcd_init` | `LCD_DISP_OFF/on/on_cursor/on_cursor/blink` | Dysplay off | `lcd_init(LCD_DISP_ON_CURSOR_BLINK)` |
 | `lcd_clrscr` | non | clear display and set cursor to home | `lcd_clrscr()` |
 | `lcd_gotoxy` | uint8_t x , uint8_t y | set curson on position | `lcd_gotoxy(1,1)` |
