@@ -87,7 +87,7 @@ Hladina vody:
 
 Knihovna pro obsluhu LCD displeje:
 
-![](http://www.peterfleury.epizy.com/avr-software.html?i=2)
+http://www.peterfleury.epizy.com/avr-software.html?i=2
 
 tato knihovna obsluhuje LCD display jako kam se má postavit kurzor jestli se má display zapnout nebo vypnout a nebo jaký symbol nebo textový řetězec má zobrazit
 
