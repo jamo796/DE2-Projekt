@@ -86,7 +86,8 @@ Knihovna časovač:
 https://github.com/tomas-fryza/Digital-electronics-2/blob/master/Labs/library/include/timer.h
 
 
-???Veškeré knihovny byly vytvořeny na počítačových cvičeních předmětu BPC-DE2.Většina z těchto knihoven je převzata od
+???Veškeré knihovny byly vytvořeny na počítačových cvičeních předmětu BPC-DE2.Většina z těchto knihoven výchází z
+knohoven pana
 doc. Ing.Tomáše Frýzy,Ph.D odkza na github [zde](https://github.com/tomas-fryza/Digital-electronics-2/).
 ???
 
