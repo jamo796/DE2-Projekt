@@ -23,7 +23,7 @@ Měření výšky vodní hladiny v nádrži s využitím senzorů a Arduina Uno
 
 ### Popis Funkcionality:
 
-Náš projekt je dizajnován jako projekt který má obsluhovat zahrádku a má obsluhovat zavlažování záhonků zavlažovat je potřeba 1x za 24 hod a je potřeba hlídat jestli je ve vodní nádrži (tanku) dostatek vody, předpokládá se že nádrž je napojená na okap a sbírá tak dešťovou vodu.V případě nedostatku vody nádrže se automaticy zapne čerpadlo. Dále je potřeba kontrolovat teplotu aby se nezalévalo vodou o teplotách které by mohly rostliny poškodit. Obě tyto funkce se dají vypnou topomcí přepínačů.
+Náš projekt je dizajnován jako projekt který má obsluhovat zahrádku a má obsluhovat zavlažování záhonků zavlažovat je potřeba 1x za 24 hod a je potřeba hlídat jestli je ve vodní nádrži (tanku) dostatek vody, předpokládá se že nádrž je napojená na okap a sbírá tak dešťovou vodu.V případě nedostatku vody v nádrži se automaticy zapne čerpadlo. Dále je potřeba kontrolovat teplotu aby se nezalévalo vodou o teplotách které by mohly rostliny poškodit. Obě tyto funkce se dají vypnou topomcí přepínačů.
 
 
 
