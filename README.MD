@@ -42,7 +42,7 @@ v simulaci jsme tento termistor řešily napěťovým zdrojem který nám poslou
 
 v zapojení jsme použily odpový dělič viz obrázek
 
-![DELIC](img/DELIC.jpg)
+![DELIC](img/DELIC.jpg) ![graf](https://github.com/jamo796/DE2-Projekt/blob/main/img/GRAF.jpg)
 
 
 
