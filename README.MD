@@ -19,8 +19,6 @@ Měření výšky vodní hladiny v nádrži s využitím senzorů a Arduina Uno
 - Kontrola Teploty.
 - Zavlažování 1x za 24 Hod.
 
-
-
 ### Popis HW:
 
 Celý systém je postaven na  [Arduinu verze UNO](https://store.arduino.cc/products/arduino-uno-rev3/) ke kterému jsou připojeny periferie jako [Display](https://www.sparkfun.com/datasheets/LCD/HD44780.pdf), [ultrazvukový senzor hladiny](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf) a [teplotní senzor](https://www.gme.cz/termistor-ntc-b57164k0103k). K arduinu jsou připojeny 2 relé kde jedno otevírá výpusť na zalévání zahrady a druhé spíná čerpadlo které doplňuje vodu do nádrže. Stavy jsou vybaveny Kontrolními LED - diodami. K adruinu jsou dále připojené spínače které přepínají mezi režimy zobrazování na display, zapnutí zpracování teploty, zapnutí čerpadla a zdali je zapnuté zavlažování.
