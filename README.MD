@@ -87,7 +87,7 @@ Hladina vody:
 
 Knihovna pro obsluhu LCD displeje:
 
-http://www.peterfleury.epizy.com/avr-software.html?i=2
+![](http://www.peterfleury.epizy.com/avr-software.html?i=2)
 
 tato knihovna obsluhuje LCD display jako kam se má postavit kurzor jestli se má display zapnout nebo vypnout a nebo jaký symbol nebo textový řetězec má zobrazit
 
@@ -109,7 +109,8 @@ Knihovna časovač:
 https://github.com/tomas-fryza/Digital-electronics-2/blob/master/Labs/library/include/timer.h
 
 
-???Veškeré knihovny byly vytvořeny na počítačových cvičeních předmětu BPC-DE2.Většina z těchto knihoven výchází z
+???
+Veškeré knihovny byly vytvořeny na počítačových cvičeních předmětu BPC-DE2.Většina z těchto knihoven výchází z
 knihoven pana
 doc. Ing.Tomáše Frýzy,Ph.D odkza na github [zde](https://github.com/tomas-fryza/Digital-electronics-2/).
 ???
