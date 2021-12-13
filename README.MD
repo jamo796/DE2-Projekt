@@ -87,7 +87,7 @@ https://github.com/tomas-fryza/Digital-electronics-2/blob/master/Labs/library/in
 
 
 ???Veškeré knihovny byly vytvořeny na počítačových cvičeních předmětu BPC-DE2.Většina z těchto knihoven výchází z
-knohoven pana
+knihoven pana
 doc. Ing.Tomáše Frýzy,Ph.D odkza na github [zde](https://github.com/tomas-fryza/Digital-electronics-2/).
 ???
 
