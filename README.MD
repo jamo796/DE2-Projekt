@@ -194,7 +194,7 @@ Výstupní jednotka je v °C
 
 
 
-### VIDEO: (staňme se YT-mrdky OUYEAH)
+### VIDEO: 
 
 https://www.youtube.com/watch?v=rnSZW_Kkyh0
 
