@@ -120,7 +120,7 @@ doc. Ing.Tomáše Frýzy,Ph.D odkza na github [zde](https://github.com/tomas-fry
 
 ### PROGRAM:
 
-![Vývojový diagram](https://github.com/jamo796/DE2-Projekt/blob/main/DE2.pdf)
+[Vývojový diagram](https://github.com/jamo796/DE2-Projekt/blob/main/DE2.pdf)
 
 
 ​	
