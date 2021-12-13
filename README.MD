@@ -19,6 +19,14 @@ Měření výšky vodní hladiny v nádrži s využitím senzorů a Arduina Uno
 - Kontrola Teploty.
 - Zavlažování 1x za 24 Hod.
 
+
+
+### Popis Funkcionality:
+
+Náš projekt je dizajnován jako projekt který má obsluhovat zahrádku a má obsluhovat zavlažování záhonků zavlažovat je potřeba 1x za 24 hod a je potřeba hlídat jestli je ve vodní nádrži (tanku) dostatek vody. dále je potřeba kontrolovat teplotu aby se nezalévalo vodou o teplotách které by mohly rostliny poškodit
+
+
+
 ### Popis HW:
 
 Celý systém je postaven na  [Arduinu verze UNO](https://store.arduino.cc/products/arduino-uno-rev3/) ke kterému jsou připojeny periferie jako [Display](https://www.sparkfun.com/datasheets/LCD/HD44780.pdf), [ultrazvukový senzor hladiny](https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf) a [teplotní senzor](https://www.gme.cz/termistor-ntc-b57164k0103k). K arduinu jsou připojeny 2 relé kde jedno otevírá výpusť na zalévání zahrady a druhé spíná čerpadlo které doplňuje vodu do nádrže. Stavy jsou vybaveny Kontrolními LED - diodami. K adruinu jsou dále připojené spínače které přepínají mezi režimy zobrazování na display, zapnutí zpracování teploty, zapnutí čerpadla a zdali je zapnuté zavlažování.
@@ -80,6 +88,18 @@ Hladina vody:
 Knihovna pro obsluhu LCD displeje:
 
 http://www.peterfleury.epizy.com/avr-software.html?i=2
+
+tato knihovna obsluhuje LCD display jako kam se má postavit kurzor jestli se má display zapnout nebo vypnout a nebo jaký symbol nebo textový řetězec má zobrazit
+
+| Function Name | Function parameters | Description | Example |
+| *-* | *-* | *-* | *-* |
+| `lcd_init` | `LCD_DISP_OFF/on/on_cursor/on_cursor/blink` | Dysplay off | `lcd_init(LCD_DISP_ON_CURSOR_BLINK)` |
+| `lcd_clrscr` | non | clear display and set cursor to home | `lcd_clrscr()` |
+| `lcd_gotoxy` | uint8_t x , uint8_t y | set curson on position | `lcd_gotoxy(1,1)` |
+| `lcd_putc` | char c | Display charakter and push cursor | `lcd_putc("A")` |
+| `lcd_puts` | const char * s | display string and push cursor | `lcd_puts("ok")` |
+| `lcd_command` | uint8_t cmd | send LCD controller instruction command | |
+| `lcd_data` | uint8_t data | similar as lcd_putc(), without LF | |
 
 Knihovna časovač:
 
