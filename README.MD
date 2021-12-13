@@ -101,6 +101,9 @@ tato knihovna obsluhuje LCD display jako kam se má postavit kurzor jestli se m�
 | `lcd_command` | uint8_t cmd | send LCD controller instruction command | |
 | `lcd_data` | uint8_t data | similar as lcd_putc(), without LF | |
 
+
+
+
 Knihovna časovač:
 
 https://github.com/tomas-fryza/Digital-electronics-2/blob/master/Labs/library/include/timer.h
