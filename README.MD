@@ -124,7 +124,7 @@ Knihovny byly použity ty které byly vytvořeny v Laboratorní Výuce dokumenta
 
 ### PROGRAM:
 
-- vývoják ? - Vojta ????
+[Vývojový diagram](https://github.com/jamo796/DE2)
 
 
 ​	
