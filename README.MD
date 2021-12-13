@@ -124,7 +124,7 @@ Knihovny byly použity ty které byly vytvořeny v Laboratorní Výuce dokumenta
 
 ### PROGRAM:
 
-[Vývojový diagram](https://github.com/jamo796/DE2)
+[Vývojový diagram](https://github.com/jamo796/DE2-Projekt/blob/main/DE2.pdf)
 
 
 ​	
